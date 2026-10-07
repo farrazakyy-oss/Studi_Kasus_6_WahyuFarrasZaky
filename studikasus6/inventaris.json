@@ -1,0 +1,14 @@
+[
+    {
+        "kode": "001",
+        "nama": "APEL HIJAU ASAL CIBADUYUT",
+        "stok": 67,
+        "harga": 67000
+    },
+    {
+        "kode": "002",
+        "nama": "BUNGA ANGGREK MEKAR",
+        "stok": 69,
+        "harga": 66000
+    }
+]
